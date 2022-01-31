@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ExamenMariusB</string>
+    <string name="balon">balon</string>
+    <string name="cantidad_de_entradas">Cantidad de entradas</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="si_descuento_10_total">SI(descuento 10% total)</string>
+    <string name="eres_socio_del_clubo">Eres socio del clubo?</string>
+    <string name="no_sin_descuenta">No(sin descuenta)</string>
+    <string name="textview">TextView</string>
+    <string name="textview">TextView</string>
+    <string name="textview">TextView</string>
+    <string name="zona_general">Zona General:</string>
+    <string name="cantidad">Cantidad:</string>
+    <string name="total">Total:</string>
+    <string name="descuento_socio">Descuento Socio:</string>
+    <string name="total_a_pagar">Total a pagar:</string>
+    <string name="textview">TextView</string>
+    <string name="textview">TextView</string>
+</resources>
